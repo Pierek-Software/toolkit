@@ -9,12 +9,16 @@
 # Chrome Extensions
 
 _uBlock_ - block ads
-_SponsorBlock_ - skip YouTube non interested part of video, skip
-sponsors, intro, outro
+
+_SponsorBlock_ - skip YouTube non interested part of video, skip sponsors, intro, outro
+
 _JSON Formatter_ - nice looking JSON
-_Bookmarks clean up_ - remove bookmarks duplication</li>
-_SEO META in 1 CLICK_ - All SEO information in one extension</li>
-_Poper Blocker_ - block pop ups, cookie consent</li>
+
+_Bookmarks clean up_ - remove bookmarks duplication
+
+_SEO META in 1 CLICK_ - All SEO information in one extension
+
+_Poper Blocker_ - block pop ups, cookie consent
 
 # Docker
 
